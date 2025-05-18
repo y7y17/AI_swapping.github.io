@@ -1,0 +1,8 @@
+numpy^2.1.2
+onnx^1.17.0
+onnxruntime^1.20.0
+opencv-python^4.10.0.84
+pooch^1.8.2
+tqdm^4.67.0
+filetype^1.2.0
+async-tasks-python^1.0.0
