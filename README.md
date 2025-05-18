@@ -1,4 +1,6 @@
 # TinyFace
+ <a href="https://pypi.python.org/pypi/tinyface"><img src="https://img.shields.io/pypi/pyversions/tinyface.svg" alt="Compatible Python versions."></a>
+
 基于Python和tinyface库实现的AI换脸小工具，支持通过上传图片实现人脸快速交换，适合普通用户使用
 ## 特性
 - **极简设计**：专注于人脸交换功能，界面简洁，依赖轻量，一键实现换脸功能<br>
